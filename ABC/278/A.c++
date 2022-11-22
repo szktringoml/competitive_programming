@@ -29,5 +29,6 @@ int main(){
     for(int i=0;i<n;i++){
         cout<<que.front()<<" ";
         que.pop();
+        
     }
 }
