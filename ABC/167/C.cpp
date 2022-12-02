@@ -17,7 +17,7 @@ int main(){
     int n,m;
     int x;
     cin>>n>>m>>x;
-    vector<vector <int> > comp(n,vector<int>(0));
+    vector<vector <long long int> > comp(n,vector<long long int>(0));
     vector<int> values;
     for(int i=0;i<n;i++){
         int c;

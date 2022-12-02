@@ -12,10 +12,9 @@
 #include <stack>
 #include <queue>
 #include <set>
-
-#define ll long long 
-using Graph = vector<vector <int> >;
 using namespace std;
 int main(){
+    int n,m,q;
+    cin>>n>>m>>q;
     
 }
